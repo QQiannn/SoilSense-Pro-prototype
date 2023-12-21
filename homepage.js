@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
     setTimeout(function(){ 
-        window.location = "pHInput.html";  
+        window.location = "login.html";  
     }, 2000);  
 } );

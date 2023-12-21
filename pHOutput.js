@@ -6,7 +6,7 @@ $(function() {
 
     var precision = 10; // 2 decimals
     // var randomnum = Math.floor(Math.random() * (10 * precision - 1 * precision) + 1 * precision) / (1*precision);
-    randomnum = 5.6;
+    randomnum = 6.7;
     $("#currentpH").text( randomnum );
 
     showHideMessage( pHValue == randomnum, pHValue, randomnum );
